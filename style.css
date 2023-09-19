@@ -1,0 +1,215 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background:black;
+    height: 100vh;
+font-family: 'Bebas Neue', sans-serif;
+font-size:100px ;
+
+
+}
+.g3{
+    margin: 0;
+}
+
+
+.hhh {
+   width: 80px;
+    margin: 20px 15px;
+    transition: 0.6s ease;
+}
+.hhh:hover {
+    transform: scale(1.1);
+    
+}
+
+div {
+    background:#181829 ;
+    text-align: center;
+    margin: auto;
+    width:280px;
+    height: 80%;
+    border-radius: 25px;
+    padding: 10px 50px;
+    transition: 0.6s ease;
+    
+
+}
+
+div:hover{
+  
+   border-radius: 50px ;
+}
+a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin: 30px 0;
+
+
+}
+
+.y {
+    transition: 0.4s ease;
+        text-shadow: 1px 1px 3px black;
+
+}
+
+.y:hover {
+
+    background-color: #ff0000;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px black;
+}
+
+.d {
+    transition: 0.4s ease;
+}
+
+.d:hover {
+
+    background-color: #2628af;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px black;
+
+}
+.t {
+    transition: 0.4s ease;
+}
+
+.t:hover {
+
+    background-color: #0749ff;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px black;
+
+}
+
+.s {
+    transition: 0.4s ease;
+}
+
+.s:hover {
+
+    background-color: #00c5cc;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px black;
+
+}
+
+
+.g {
+    transition: 0.4s ease;
+}
+
+.g:hover {
+
+    background-color: #00ff22;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px black;
+
+}
+
+.tt {
+    transition: 0.4s ease;
+}
+
+.tt:hover {
+
+    background-color: #5f4d4d;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+
+}
+
+.c {
+    transition: 0.4s ease;
+}
+
+.c:hover {
+
+    background-color: #8f1e1e;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+
+}
+
+.i {
+    transition: 0.4s ease;
+}
+
+.i:hover {
+
+    background-color: #ff4444;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+
+}
+
+.f {
+    transition: 0.4s ease;
+}
+
+.f:hover {
+
+    background-color: #080079;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+
+}
+
+.am {
+    transition: 0.4s ease;
+}
+
+.am:hover {
+
+    background-color: #ff8800;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+
+}
+
+.gd {
+    transition: 0.4s ease;
+}
+
+.gd:hover {
+
+    background-color: #1b2247;
+    transform: scale(1.1);
+    border-radius: 5px;
+    padding: 10px;
+    text-shadow: 1px 4px 2px rgb(0, 0, 0);
+
+}
+
